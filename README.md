@@ -1,6 +1,6 @@
 # Physio View
 
-A physiological evaluation treadmill system with LabVIEW.
+A gait measurement system with treadmill.
 
 ![PhysioView](help/physio-view.PNG)
 
