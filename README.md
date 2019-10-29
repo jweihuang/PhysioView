@@ -1,4 +1,4 @@
-# Physio View
+# Gait Measurement System
 
 A gait measurement system with treadmill.
 
