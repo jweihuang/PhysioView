@@ -1,4 +1,4 @@
-# Gait Measurement System
+# Gait Measuring System
 
 A gait measurement system with treadmill.
 
